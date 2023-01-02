@@ -1,0 +1,15 @@
+.Movie{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 25px;
+    background: #5e2ced;
+}
+
+.Movie-image{
+    width: 50%;
+}
+
+.Movie>*{
+    margin: 2vh auto;
+}
